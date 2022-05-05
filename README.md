@@ -1,4 +1,4 @@
-# cDI-02
+# cdi-02
 
 Melina Alfonso 4°1 Avionica
 Materia: Control de interfases
